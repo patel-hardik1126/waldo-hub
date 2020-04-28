@@ -118,4 +118,4 @@ function ws_flip(c,n,e){var f=jQuery;var g=f(this);var m=c.cols||Math.round(c.wi
 // Obfuscated by Javascript Obfuscator
 // http://javascript-source.com
 //***********************************************
-jQuery("#wowslider-container1").wowSlider({effect:"cube_over,lines,bubbles,parallax,brick,cube,slices,blinds,fade,flip",prev:"",next:"",duration:20*100,delay:20*100,width:1366,height:768,autoPlay:true,autoPlayVideo:false,playPause:true,stopOnHover:false,loop:false,bullets:0,caption:true,captionEffect:"parallax",controls:true,controlsThumb:false,responsive:2,fullScreen:false,gestures:2,onBeforeStep:0,images:0});
+jQuery("#wowslider-container1").wowSlider({effect:"cube_over,lines,bubbles,parallax,brick,cube,slices,blinds,fade,flip",prev:"",next:"",duration:20*100,delay:20*100,width:1366,height:768,autoPlay:true,autoPlayVideo:false,playPause:true,stopOnHover:false,loop:false,bullets:0,caption:true,captionEffect:"parallax",controls:true,controlsThumb:false,responsive:3,fullScreen:false,gestures:2,onBeforeStep:0,images:0});
